@@ -4,6 +4,6 @@
 
 #include <iostream>
 int main() {
-    std::cout<<"abcd!";
+    std::cout<<"123!";
     return 0;
 }
