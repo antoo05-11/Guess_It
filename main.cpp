@@ -4,6 +4,6 @@
 
 #include <iostream>
 int main() {
-    std::cout<<"Hello there!";
+    std::cout<<"abcd!";
     return 0;
 }
